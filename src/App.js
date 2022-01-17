@@ -43,7 +43,7 @@ function App() {
     <div>
       <PageHeading>
         <h1>ALL THE SPORTS TEAMS!!</h1>
-        <p>THIS IS THE BEST CHANGE EVER</p>>
+        <p>THIS IS THE BEST CHANGE EVER</p>
       </PageHeading>
       <div>
         {sportsTeams.map((team, index) => {
